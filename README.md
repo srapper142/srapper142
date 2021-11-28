@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ... this is my persoonal gh for learning about blockchain smart contracts, solidity, exploring NFTs, etc. 
+
+🔭 I’m currently working on ... product security, cloud security, and product management, smart contract programming, solidity, blockchains, NFTs, 
+
+🚀 I invest in ... equities, options, real estate, cryptocurrencies, and other asset classes 
+
+📫 How to reach me: create an issue or disscus here in GH, or here twitter.com/srapper142 
+
 <!--
 **srapper142/srapper142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
