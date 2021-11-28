@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ... this is my persoonal gh for learning about blockchain smart contracts, solidity, exploring NFTs, etc. 
+🌱 this is a personal gh I'm using for learning about blockchain smart contracts, solidity, exploring NFTs, etc. 
 
-🔭 I’m currently working on ... product security, cloud security, and product management, smart contract programming, solidity, blockchains, NFTs, 
+🔭 I’m currently working on ... smart contract programming, solidity, blockchains, NFTs, product security, cloud security, product management
 
 🚀 I invest in ... equities, options, real estate, cryptocurrencies, and other asset classes 
 
