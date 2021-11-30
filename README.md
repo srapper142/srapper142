@@ -4,8 +4,6 @@
 
 🔭 I’m currently working on ... smart contract programming, solidity, blockchains, NFTs, product security, cloud security, product management
 
-🚀 I invest in ... equities, options, real estate, cryptocurrencies, and other asset classes 
-
 📫 How to reach me: create an issue or disscus here in GH, or here twitter.com/srapper142 
 
 <!--
